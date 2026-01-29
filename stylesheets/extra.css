@@ -51,3 +51,16 @@
 .btn-outline {
   background: transparent;
 }
+
+/* Force normal bullets back (in case any CSS removed them) */
+.md-typeset ul { 
+  list-style: disc !important;
+  margin-left: 1.2em !important;
+}
+.md-typeset ol { 
+  list-style: decimal !important;
+  margin-left: 1.2em !important;
+}
+.md-typeset li { 
+  margin-left: 0 !important;
+}
