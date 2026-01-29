@@ -1,0 +1,29 @@
+site_name: Joel Nazareth
+site_description: Data Science / Data Engineering portfolio
+site_author: Terril Joel Nazareth
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.top
+    - navigation.instant
+    - navigation.tracking
+    - content.code.copy
+  palette:
+    - scheme: slate
+      primary: black
+      accent: teal
+
+nav:
+  - Home: index.md
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/terriljoel
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/terril-joel-nazareth-298516191
