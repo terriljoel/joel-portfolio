@@ -10,6 +10,33 @@
   box-shadow: 0 0 60px rgba(0,0,0,.35);
 }
 
+.hero-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.6rem;
+  flex-wrap: wrap;
+}
+
+.hero-content {
+  flex: 1 1 420px;
+  min-width: 260px;
+}
+
+.hero-photo-wrap {
+  flex: 0 0 auto;
+}
+
+.hero-photo {
+  width: 140px;
+  height: 140px;
+  border-radius: 999px;
+  object-fit: cover;
+  border: 2px solid rgba(255,255,255,.18);
+  box-shadow: 0 10px 30px rgba(0,0,0,.35);
+  background: rgba(255,255,255,.08);
+}
+
 .hero-title {
   font-size: 2.1rem;
   font-weight: 700;
@@ -50,6 +77,17 @@
 
 .btn-outline {
   background: transparent;
+}
+
+@media (max-width: 720px) {
+  .hero-inner {
+    justify-content: center;
+    text-align: center;
+  }
+
+  .hero-cta {
+    justify-content: center;
+  }
 }
 
 /* Force normal bullets back (in case any CSS removed them) */
