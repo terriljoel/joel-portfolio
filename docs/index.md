@@ -1,60 +1,65 @@
-# Terril Joel Nazareth
+﻿# Terril Joel Nazareth
 
 <div class="hero">
-  <div class="hero-title">Data Science • Data Engineering</div>
-  <div class="hero-subtitle">
-    Databricks (Spark) Certified • 2× Microsoft Certified • Building scalable, efficient data solutions
-  </div>
-  <div class="hero-cta">
-    <a class="btn" href="https://github.com/terriljoel" target="_blank" rel="noreferrer">GitHub ↗</a>
-    <a class="btn" href="https://www.linkedin.com/in/terril-joel-nazareth-298516191" target="_blank" rel="noreferrer">LinkedIn ↗</a>
-    <a class="btn btn-outline" href="mailto:your@email.com">Email</a>
+  <div class="hero-card" style="--hero-cover: url('assets/images/cover.jpg');">
+    <div class="hero-cover"></div>
+    <div class="hero-body">
+      <div class="hero-id">
+        <img class="hero-avatar" src="assets/images/profile-photo.png" alt="Terril Joel Nazareth" />
+        <div class="hero-text">
+          <div class="hero-title">Data Science & Data Engineering</div>
+          <div class="hero-subtitle">
+            Data Science Student | Microsoft Certified | Data + ML + Engineering
+          </div>
+        </div>
+      </div>
+      <div class="hero-cta">
+        <a class="btn" href="https://github.com/terriljoel" target="_blank" rel="noreferrer">GitHub</a>
+        <a class="btn" href="https://www.linkedin.com/in/terril-joel-nazareth-298516191" target="_blank" rel="noreferrer">LinkedIn</a>
+        <a class="btn btn-outline" href="mailto:terriljoel@gmail.com">Email</a>
+      </div>
+    </div>
   </div>
 </div>
 
 ---
 
-## About
-I’m a Data Science / Data Engineering-focused student based in Germany. I enjoy building practical data products—pipelines, analytics layers, and ML workflows—with a focus on performance and sustainability.
+## About Me
+I am a Data Science / Data Engineering-focused student based in Braunschweig, Germany. I build practical data products, from pipelines and analytics layers to ML workflows, with a focus on performance, scalability, and maintainability.
 
-**Current interests:** Spark/Databricks • Azure • ML pipelines • Green software
-
----
-
-## Projects
-
-### Project 1 — (Your best one)
-**What:** One-liner that explains the outcome.  
-**Tech:** Python • SQL • Spark/Databricks  
-**Links:** [Repo](#) • [Demo](#)
-
-### Project 2 — (Strong ML / analytics project)
-**What:** What problem you solved + result/metric if possible.  
-**Tech:** Python • scikit-learn • MLflow  
-**Links:** [Repo](#)
-
-### Project 3 — (Pipeline / ETL / dashboard)
-**What:** End-to-end pipeline or analytics build.  
-**Tech:** SQL • Spark • Azure  
-**Links:** [Repo](#)
+**Current interests:**  ML pipelines - Data Engineering - Software Engineering
 
 ---
 
 ## Skills
-- **Data:** SQL, data modeling, ETL/ELT, pipelines  
-- **Tools:** Databricks, Apache Spark, Azure  
-- **ML:** feature engineering, model evaluation, experiment tracking  
-- **Coding:** Python (pandas, sklearn), Git
+- **Programming Languages:** C, C++, Python, SQL
+- **ML/DS:** scikit-learn, PyTorch, Hugging Face Transformers, model evaluation, hyperparameter tuning
+- **Data Engineering:** Azure Data Factory, Databricks, PySpark, Delta/Medallion architecture, Data Warehousing
+- **Cloud:** Azure (Functions, Logic Apps, Data Lake Gen2, DevOps), AWS (SageMaker, S3, Lambda, CloudWatch)
+- **BI/Tools:** Power BI, Git, VS Code, SSMS
 
 ---
 
-## Certifications
-- Databricks Certified (Apache Spark)
-- Microsoft Certified (×2)
+## Education
+### Technical University of Braunschweig (Braunschweig, Germany)
+*Master of Science in Data Science - Oct 2023 – Present (5th Semester)*
+
+### NMAM Institute of Technology (Nitte, India)
+*Bachelor of Engineering in Computer Science and Engineering - Aug 2016 – Aug 2020*
 
 ---
 
-## Contact
-- GitHub: https://github.com/terriljoel  
-- LinkedIn: https://www.linkedin.com/in/terril-joel-nazareth-298516191  
-- Email: your@email.com
+## Languages
+- German (A2)
+- English (Fluent)
+- Hindi (Fluent)
+- Kannada (Fluent)
+- Konkani (Native)
+- Tulu (Native)
+
+---
+
+## Explore More
+- **[Experience](experience.md)** - Professional and academic roles.
+- **[Projects](projects.md)** - Personal project work.
+- **[Certifications](certifications.md)** - Professional certifications and credentials.

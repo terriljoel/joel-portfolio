@@ -17,6 +17,9 @@ theme:
 
 nav:
   - Home: index.md
+  - Experience: experience.md
+  - Projects: projects.md
+  - Certifications: certifications.md
 
 extra_css:
   - stylesheets/extra.css
